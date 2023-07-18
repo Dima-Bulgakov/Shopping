@@ -21,9 +21,6 @@ iOS pet project · online store for shopping
 ## Tools
 
 [![MIT License](https://img.shields.io/badge/-Swift-orange)](https://developer.apple.com/swift/)
-[![GPLv3 License](https://img.shields.io/badge/-UIKit-blue)](https://developer.apple.com/documentation/uikit)
 [![AGPL License](https://img.shields.io/badge/-iOS-black)](https://www.apple.com/ios/ios-16/)
+[![AGPL License](https://img.shields.io/badge/-SwiftUI-Green)](https://www.apple.com/ios/ios-16/)
 ## Thank You!
-
-
-
