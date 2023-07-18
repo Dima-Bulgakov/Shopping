@@ -11,12 +11,15 @@ iOS pet project · online store for shopping
 - Delete product from cart
 
 
-## Screenshots
+## Screenshots / soon..
+<!--
+
 <p float="left">
   <img src="https://github.com/Dima-Bulgakov/News/blob/secondBranch/1.png?raw=true" width="310" />
   <img src="https://github.com/Dima-Bulgakov/News/blob/secondBranch/2.gif?raw=true" width="250" /> 
 </p>
 
+-->
 
 ## Tools
 
