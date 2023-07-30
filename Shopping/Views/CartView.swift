@@ -25,6 +25,10 @@ struct CartView: View {
                         .bold()
                 }
                 .padding()
+                
+                PaymentButton {}
+                    .padding()
+                
             } else {
                 Text("Your cart is empty")
                     .foregroundColor(.gray)
