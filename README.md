@@ -11,7 +11,7 @@ iOS pet project · online store for shopping
 - Delete product from cart
 
 
-## Screenshots and video / soon..
+## Screenshots and video
 <!--
 -->
 <p float="left">
