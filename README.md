@@ -13,13 +13,12 @@ iOS pet project · online store for shopping
 
 ## Screenshots and video / soon..
 <!--
-
+-->
 <p float="left">
-  <img src="https://github.com/Dima-Bulgakov/News/blob/secondBranch/1.png?raw=true" width="310" />
-  <img src="https://github.com/Dima-Bulgakov/News/blob/secondBranch/2.gif?raw=true" width="250" /> 
+  <img src="https://github.com/Dima-Bulgakov/Shopping/blob/8ac18729923a2cff7bb3d47a5d15517cbc33b297/video.gif" /> 
 </p>
 
--->
+
 
 ## Tools
 
