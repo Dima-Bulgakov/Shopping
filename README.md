@@ -15,7 +15,7 @@ iOS pet project · online store for shopping
 <!--
 -->
 <p float="left">
-  <img src="https://github.com/Dima-Bulgakov/Shopping/blob/8ac18729923a2cff7bb3d47a5d15517cbc33b297/video.gif" /> 
+  <img src="https://github.com/Dima-Bulgakov/Shopping/blob/8ac18729923a2cff7bb3d47a5d15517cbc33b297/video.gif" width="250" /> 
 </p>
 
 
